@@ -638,4 +638,8 @@ footer {
     .menu-toggle:hover {
         color: #FFE500;
     }
+
+    .menu-toggle:active {
+        color: #FFD600;
+    }
 }
